@@ -20,6 +20,7 @@ Este projeto consiste em uma API REST desenvolvida em C# utilizando Minimal API 
 - Atualização de tarefas
 - Remoção de tarefas
 - Criação de Tarefas com Data de Vencimento
+- Cadastro de usarios com senha 
 
 ## Descrição das funcionalidades
 O sistema permite que usuários criem tarefas associadas a categorias previamente cadastradas. Cada tarefa pode ser marcada como concluída ou pendente. Além disso, é possível listar todas as tarefas com seus respectivos usuários e categorias, atualizar informações e remover registros do banco de dados.
